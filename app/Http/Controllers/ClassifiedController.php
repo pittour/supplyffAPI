@@ -52,12 +52,6 @@ class ClassifiedController extends Controller
         }
 
         return $classified;
-
-
-
-        // if ($request->has('classified.freeBoolean')) {
-
-        // }
     }
 
     /**
