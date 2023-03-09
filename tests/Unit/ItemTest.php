@@ -13,6 +13,7 @@ class ItemTest extends TestCase
      */
     public function test_items_are_displayed()
     {
+        // Write test
         $this->assertTrue(true);
     }
 }
